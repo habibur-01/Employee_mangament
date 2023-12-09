@@ -1,0 +1,28 @@
+[
+    {
+        "img": "https://i.ibb.co/5vYHpC4/team-4.jpg",
+        "designition": "Senior Instructor",
+        "course": "Principle of Robotics",
+        "name": "Anjolina Joli"
+    },
+    
+    {
+        "img": "https://i.ibb.co/xC59s8d/team-3.jpg",
+        "designition": "Senior Instructor",
+        "course": "Web Development Bootcamp",
+        "name": "Tony Stark"
+    },
+    {
+        "img": "https://i.ibb.co/wyMFrq0/team-2.jpg",
+        "designition": "Junior Instructor",
+        "course": "Information Security",
+        "name": "Anisha Lehnin "
+    },
+    {
+        "img": "https://i.ibb.co/Fn0FjxD/team-1.jpg",
+        "designition": "Senior Instructor",
+        "course": "Digital Image Processing",
+        "name": "Nick Fury"
+    }
+
+]

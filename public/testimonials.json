@@ -1,0 +1,44 @@
+[
+    {
+      "userImg": "https://i.ibb.co/xC59s8d/team-3.jpg",
+      "userName": "Alice Johnson",
+      "userEmail": "alice.johnson@example.com",
+      "review":"Very well organized and conceived. By following the course, I was able to learn and build on the concepts with minimal questions or frustration. It taught me what I was looking to learn, was well organized, and well paced. I’m already applying what I learned at work.",
+      "rating": 4.8
+    },
+    {
+      "userImg": "https://i.ibb.co/wyMFrq0/team-2.jpg",
+      "userName": "Bob Smith",
+      "userEmail": "bob.smith@example.com",
+      "review":"One thing that impressed me about Online-Learning is if I have a question (even before enrolling), there is always a quick response. This is critical when distance is involved. Susan is very good about getting me through difficult issues and keeping in touch with the class.",
+      "rating": 4.5
+    },
+    {
+      "userImg": "https://i.ibb.co/Fn0FjxD/team-1.jpg",
+      "userName": "Charlie Brown",
+      "userEmail": "charlie.brown@example.com",
+      "review":"I wrapped a real life experience around the assignments and it was a tremendous learning experience! I now have no problem participating actively in meetings dealing with XML subject matter (either in a business or technical level). In all, I rate the Online-learning.com XML course 9.5 out of 10.",
+      "rating": 4.2
+    },
+    {
+      "userImg": "https://i.ibb.co/5vYHpC4/team-4.jpg",
+      "userName": "Diana Martinez",
+      "userEmail": "diana.martinez@example.com",
+      "review": "Not only did this experience teach me the proper techniques of technical writing and the process of XML document construction as promised, but it also taught me how to learn independently, how to stick with a problem and find ways of solving it, and perhaps most significantly, the experience taught me the skills that will enable me to continue to develop my technical writing skills beyond the electronic classroom.",
+      "rating": 4.9
+    },
+    {
+      "userImg": "https://i.ibb.co/Fn0FjxD/team-1.jpg",
+      "userName": "Evan Taylor",
+      "userEmail": "evan.taylor@example.com",
+      "review":"Course materials were good, the mentoring approach was good, and working with other people via the Internet was good. The instructor did a good job of communicating and making it a more intimate arrangement. A lot of online courses fail because of the isolation. Kitty is very good and I think it’s a very solid course. I learned a lot.",
+      "rating": 4.7
+    },
+    {
+      "userImg": "https://i.ibb.co/wyMFrq0/team-2.jpg",
+      "userName": "Fiona Lee",
+      "userEmail": "fiona.lee@example.com",
+      "review":"I received my certificate, and I would like to thank you for your support. Your course was challenging, but you were always there supporting me and ready to help. I enjoyed your class tremendously. I look forward to taking another class with you.",
+      "rating": 4.4
+    }
+  ]

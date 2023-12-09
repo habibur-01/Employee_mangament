@@ -1,0 +1,44 @@
+[
+    {
+        "courseImg": "https://i.ibb.co/FhPzN9d/517-DQBKFo-KL-AC-UF894-1000-QL80.jpg",
+        "courseTitle": "Principle of Robotics",
+        "courseCode": "CSE414",
+        "price": 49.99,
+        "rating": 4.5
+    },
+    {
+        "courseImg": "https://i.ibb.co/Hxt4WsQ/web-developments.webp",
+        "courseTitle": "Web Development Bootcamp",
+        "courseCode": "CSE412",
+        "price": 29.99,
+        "rating": 4.8
+    },
+    {
+        "courseImg": "https://i.ibb.co/RHTcx0y/download.jpg",
+        "courseTitle": "Digital Image Processing",
+        "courseCode": "CSE427",
+        "price": 39.99,
+        "rating": 4.2
+    },
+    {
+        "courseImg": "https://i.ibb.co/NK4KtNj/Ethics-Business-Team-Ethics.webp",
+        "courseTitle": "Social and Ethics of Computing",
+        "courseCode": "CSE498",
+        "price": 54.99,
+        "rating": 4.7
+    },
+    {
+        "courseImg": "https://i.ibb.co/VmmXzNQ/big-data2.jpg",
+        "courseTitle": "Big Data and IoT",
+        "courseCode": "CSE422",
+        "price": 54.99,
+        "rating": 4.7
+    },
+    {
+        "courseImg": "https://i.ibb.co/FhPzN9d/517-DQBKFo-KL-AC-UF894-1000-QL80.jpg",
+        "courseTitle": "Information Security",
+        "courseCode": "CSE418",
+        "price": 54.99,
+        "rating": 4.7
+    }
+]
